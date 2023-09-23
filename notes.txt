@@ -1,0 +1,12 @@
+<!-- How to setup tailwind -->
+
+# npm install -D tailwindcss postcss autoprefixer
+# npx tailwindcss init -p
+
+# tailwind.config.js -> content : ["*"]
+
+# package.json / add script tag / start : vite 
+
+# create  main.css / copy 3 lines from tailwind website 
+
+# 
